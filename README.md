@@ -6,7 +6,7 @@ _Abrir terminal y copiar git clone https://github.com/rony-rr/koinonia-expo-temp
 
 ## Instalar dependencias 🚀
 
-_npm install
+npm install
 
 ### Listo 📋
 
